@@ -1,5 +1,6 @@
-Version 1.0
+Version 2.0
 
 Hotfix number 1
 
 Release Feature number 1
+Release Feature number 2
