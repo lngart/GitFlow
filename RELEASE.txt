@@ -1,3 +1,5 @@
-Version 0.1
+Version 1.0
 
 Hotfix number 1
+
+Release Feature number 1
