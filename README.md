@@ -1,3 +1,1 @@
-Hotfix
-Feature number 1
-Feature number 2
+# Домашнее задание по работе с GitFlow
